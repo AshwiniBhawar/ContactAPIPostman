@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "ContactAPI_Email",
-			"value": "bhawar.ashwini2892@gmail.com",
+			"value": "automationframework@gmail.com",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "ContactAPI_Password",
-			"value": "tester1234",
+			"value": "automationframework",
 			"type": "default",
 			"enabled": true
 		},
